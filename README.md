@@ -192,37 +192,6 @@ Write clear notes and improve each time.
 
 <div align="center">
 
-## 🏆 Profile Trophies
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=yousif-IQ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7"/>
-
-</div>
-
-<br/>
----
-
-<div align="center">
-
-## 🔮 Current Mindset
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3600&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=I+learn+by+doing%2C+breaking%2C+fixing%2C+and+documenting.;Tools+are+important%2C+but+understanding+is+the+real+skill.;Small+steps+every+day+build+real+experience.;Security+is+a+mindset+before+it+is+a+toolset."/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Learning-Continuous-00D9FF?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/Practice-Labs-00FFA3?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/Notes-Clean-7C3AED?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/Mindset-Security-FF00C8?style=for-the-badge&labelColor=020617"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
 
 ## 🌐 Connect
 
