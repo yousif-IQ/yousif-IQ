@@ -156,13 +156,6 @@ Write clear notes and improve each time.
 
 ---
 
-<div align="center">
-
-## 🧭 Learning Path
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Web+Security+Labs;Authentication+%26+File+Upload+Testing;SOC+%2F+SIEM+Fundamentals;Windows+Server+%26+Active+Directory;Reverse+Engineering+Basics;Security+Automation+with+Python+and+Bash"/>
-
-</div>
 
 
 
