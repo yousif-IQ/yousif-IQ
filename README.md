@@ -1,32 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0D0D0D,40:1A1200,60:3B2A00,80:B8860B,100:D4AF37&height=310&section=header&text=Yousif%20Wazni&fontSize=64&fontColor=F8E7B2&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Engineering%20Student&descAlignY=58&descColor=D4AF37"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:155E75,100:7C3AED&height=260&section=header&text=Yousif%20Wazni&fontSize=58&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineering%20Student&descAlignY=58&descColor=67E8F9"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=26&duration=2300&pause=850&color=D4AF37&center=true&vCenter=true&width=950&lines=Cybersecurity+Engineering+Student;Web+Security+%7C+SOC+%7C+OSINT+%7C+DFIR;Linux+%7C+Automation+%7C+Security+Labs;Learning+by+Practice+and+Building+with+Purpose"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2400&pause=850&color=67E8F9&center=true&vCenter=true&width=850&lines=Web+Security+%7C+SOC+%7C+OSINT+%7C+DFIR;Linux+%7C+Automation+%7C+Security+Labs;Learning+by+Practice"/>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/yousifwazni">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000&color=D4AF37"/>
+  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=67E8F9&labelColor=020617&color=155E75"/>
 </a>
 <a href="mailto:yousifwazni@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000&color=D4AF37"/>
+  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=67E8F9&labelColor=020617&color=155E75"/>
 </a>
 <a href="https://github.com/yousif-IQ">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000&color=D4AF37"/>
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=67E8F9&labelColor=020617&color=155E75"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yousif-IQ&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/yousif-IQ?style=for-the-badge&color=D4AF37&labelColor=000000&logo=github&logoColor=D4AF37"/>
-<img src="https://img.shields.io/github/stars/yousif-IQ?style=for-the-badge&color=D4AF37&labelColor=000000&logo=starship&logoColor=D4AF37"/>
-
-<br/><br/>
-
-<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:5C4300,60:D4AF37,100:000000&height=3&section=header"/>
+<img src="https://komarev.com/ghpvc/?username=yousif-IQ&style=for-the-badge&color=155E75&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/yousif-IQ?style=for-the-badge&color=7C3AED&labelColor=020617&logo=github&logoColor=67E8F9"/>
 
 </div>
 
@@ -34,82 +29,45 @@
 
 <div align="center">
 
-## 👑 About Me
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2400&pause=900&color=D4AF37&center=true&vCenter=true&width=850&lines=Building+My+Cybersecurity+Journey;Focused+on+Practice+and+Real+Skills;Learning+Every+Day+with+Discipline"/>
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,40:155E75,70:67E8F9,100:7C3AED&height=3&section=header"/>
 
 </div>
 
 <br/>
+
+## About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### ⚜️ Identity
-
-</div>
+<td width="55%" valign="top">
 
 ```yaml
 name: Yousif Wazni
-title: Cybersecurity Engineering Student
-field: Cybersecurity
+role: Cybersecurity Engineering Student
+focus: Web Security, SOC, OSINT, DFIR
 daily_os: Linux
-mindset: Practical Learning
+mindset: Learning by Practice
 ```
+
+I am a cybersecurity engineering student focused on practical learning, real labs, and hands-on technical growth.
+
+My interests include web application security, security monitoring, OSINT, digital forensics, and Linux-based workflows.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 <div align="center">
 
-### 🛡️ Focus Areas
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2300&pause=750&color=A78BFA&center=true&vCenter=true&width=380&lines=Practical+Learner;Security+Labs;Linux+User;Always+Improving"/>
 
-</div>
+<br/><br/>
 
-```yaml
-main_focus:
-  - Web Security
-  - SOC
-  - OSINT
-  - DFIR
-  - Linux Workflows
-```
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-<div align="center">
-
-### ✨ My Cybersecurity Path
-
-</div>
-
-<p align="center">
-I am a cybersecurity engineering student focused on building strong practical skills through real labs, research, and hands-on experience.
-</p>
-
-<p align="center">
-My interests include <b>web application security</b>, <b>security monitoring</b>, <b>OSINT</b>, <b>digital forensics</b>, and <b>Linux-based workflows</b>.
-</p>
-
-<p align="center">
-I believe that real progress comes from discipline, consistency, and learning by doing.
-</p>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Practical%20Learner-000000?style=for-the-badge&logo=target&logoColor=D4AF37&labelColor=000000&color=D4AF37"/>
-<img src="https://img.shields.io/badge/Security%20Labs-000000?style=for-the-badge&logo=hackthebox&logoColor=D4AF37&labelColor=000000&color=D4AF37"/>
-<img src="https://img.shields.io/badge/Linux%20User-000000?style=for-the-badge&logo=linux&logoColor=D4AF37&labelColor=000000&color=D4AF37"/>
+<img src="https://img.shields.io/badge/Web%20Security-020617?style=for-the-badge&logo=hackthebox&logoColor=67E8F9&labelColor=020617&color=155E75"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/SOC%20%26%20DFIR-020617?style=for-the-badge&logo=elasticstack&logoColor=67E8F9&labelColor=020617&color=7C3AED"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=67E8F9&labelColor=020617&color=155E75"/>
 
 </div>
 
@@ -121,29 +79,32 @@ I believe that real progress comes from discipline, consistency, and learning by
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:3B2A00,50:D4AF37,75:3B2A00,100:000000&height=4&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,35:155E75,70:7C3AED,100:020617&height=3&section=header"/>
 
 </div>
 
 <br/>
 
-<div align="center">
+## Skills
 
-## 🛡️ Core Skills
+<div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>🌐 Web Security</h3>
-<p>Recon, testing, and understanding web vulnerabilities.</p>
+<b>Web Security</b>
+<br/>
+Recon, testing, and common web vulnerabilities.
 </td>
 <td align="center" width="33%">
-<h3>🛡️ SOC</h3>
-<p>Log analysis, monitoring concepts, and alert review.</p>
+<b>SOC</b>
+<br/>
+Log analysis, monitoring, and alert review.
 </td>
 <td align="center" width="33%">
-<h3>🔎 OSINT / DFIR</h3>
-<p>Investigation, research, and evidence-based thinking.</p>
+<b>OSINT / DFIR</b>
+<br/>
+Research, investigation, and evidence-based thinking.
 </td>
 </tr>
 </table>
@@ -152,20 +113,17 @@ I believe that real progress comes from discipline, consistency, and learning by
 
 <br/>
 
+## Toolbox
+
 <div align="center">
-
-## ⚒️ Toolbox
-
-<br/>
 
 <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=D4AF37&labelColor=000000&color=D4AF37"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnometerminal&logoColor=D4AF37&labelColor=000000&color=D4AF37"/>
-<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=D4AF37&labelColor=000000&color=D4AF37"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=D4AF37&labelColor=000000&color=D4AF37"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-020617?style=for-the-badge&logo=burpsuite&logoColor=67E8F9&labelColor=020617&color=155E75"/>
+<img src="https://img.shields.io/badge/Nmap-020617?style=for-the-badge&logo=gnometerminal&logoColor=67E8F9&labelColor=020617&color=155E75"/>
+<img src="https://img.shields.io/badge/Wireshark-020617?style=for-the-badge&logo=wireshark&logoColor=67E8F9&labelColor=020617&color=7C3AED"/>
 
 </div>
 
@@ -173,62 +131,30 @@ I believe that real progress comes from discipline, consistency, and learning by
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,50:000000,100:D4AF37&height=4&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:67E8F9,100:155E75&height=3&section=header"/>
 
 </div>
 
 <br/>
 
+## GitHub Stats
+
 <div align="center">
 
-## 📊 GitHub Royal Stats
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yousif-IQ&show_icons=true&hide_border=false&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&text_color=F8E7B2&bg_color=000000&rank_icon=github"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=yousif-IQ&theme=dark&hide_border=false&border=D4AF37&background=000000&stroke=D4AF37&ring=D4AF37&fire=F5D76E&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=F8E7B2&sideNums=F8E7B2&currStreakNum=F8E7B2"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yousif-IQ&show_icons=true&hide_border=true&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&bg_color=020617"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=yousif-IQ&theme=tokyonight&hide_border=true&background=020617&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9"/>
 
 <br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousif-IQ&layout=compact&hide_border=false&border_color=D4AF37&title_color=D4AF37&text_color=F8E7B2&bg_color=000000"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yousif-IQ&bg_color=000000&color=F8E7B2&line=D4AF37&point=F5D76E&area=true&hide_border=false&border_color=D4AF37"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousif-IQ&layout=compact&hide_border=true&title_color=67E8F9&text_color=CBD5E1&bg_color=020617"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:B8860B,50:D4AF37,75:B8860B,100:000000&height=4&section=header"/>
-
-</div>
-
-<br/>
+## Connect
 
 <div align="center">
-
-## ⚡ Current Direction
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=21&duration=2500&pause=900&color=D4AF37&center=true&vCenter=true&width=850&lines=Improving+Cybersecurity+Skills;Practicing+Web+Security+Labs;Learning+SOC+and+DFIR+Concepts;Building+Strong+Linux+Workflows"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Learning-Web%20Security-000000?style=for-the-badge&logo=hackthebox&logoColor=D4AF37&labelColor=000000&color=D4AF37"/>
-<img src="https://img.shields.io/badge/Exploring-SOC%20Workflows-000000?style=for-the-badge&logo=splunk&logoColor=D4AF37&labelColor=000000&color=D4AF37"/>
-<img src="https://img.shields.io/badge/Practicing-Linux%20Automation-000000?style=for-the-badge&logo=linux&logoColor=D4AF37&labelColor=000000&color=D4AF37"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🤝 Connect
-
-<br/>
 
 <a href="https://linkedin.com/in/yousifwazni">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -244,22 +170,10 @@ I believe that real progress comes from discipline, consistency, and learning by
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Learning%20%7C%20Labs%20%7C%20Collaboration-000000?style=for-the-badge&labelColor=000000&color=D4AF37"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:5C4300,60:D4AF37,100:000000&height=3&section=header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=1000&color=67E8F9&center=true&vCenter=true&width=720&lines=Discipline+Builds+Skill;Practice+Creates+Confidence;Every+Lab+Makes+You+Better"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&duration=2600&pause=1000&color=F5D76E&center=true&vCenter=true&width=780&lines=Discipline+Builds+Skill;Practice+Creates+Confidence;Every+Lab+Makes+You+Better"/>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:1A1200,45:5C4300,70:D4AF37,85:B8860B,100:000000&height=190&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:155E75,100:7C3AED&height=150&section=footer"/>
 
 </div>
