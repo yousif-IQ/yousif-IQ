@@ -199,31 +199,6 @@ Write clear notes and improve each time.
 </div>
 
 <br/>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:7C3AED,50:00D9FF,75:00FFA3,100:020617&height=3&section=header"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🐍 Contribution Motion
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yousif-IQ/yousif-IQ/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yousif-IQ/yousif-IQ/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/yousif-IQ/yousif-IQ/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
