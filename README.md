@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:2563EB&height=230&section=header&text=YOUSIF%20WAZNI&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=60&descColor=60A5FA"/>
+<h1>Yousif Wazni</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+Secure+Software;Turning+Ideas+Into+Code;Learning.+Building.+Improving."/>
+<h3>Cybersecurity & Software Developer</h3>
 
-<br/>
+<p>Building secure software with clean code and strong problem-solving.</p>
 
-<a href="https://github.com/yousif-IQ"><img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/yousifwazni"><img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="mailto:yousifwazni@gmail.com"><img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://github.com/yousif-IQ">GitHub</a> •
+<a href="https://linkedin.com/in/yousifwazni">LinkedIn</a> •
+<a href="mailto:yousifwazni@gmail.com">Email</a>
 
 </div>
 
@@ -19,7 +19,7 @@ class Yousif:
     role = "Cybersecurity & Software Developer"
     focus = ["Secure Software", "Web Security", "Problem Solving"]
     system = "Linux"
-    mindset = "Build. Break. Learn. Repeat."
+    mindset = "Learn. Build. Improve."
 ```
 
 I build practical software and explore cybersecurity with a focus on writing clean, secure, and reliable code.
@@ -40,33 +40,17 @@ I build practical software and explore cybersecurity with a focus on writing cle
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SECURITY-2563EB?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/AUTOMATION-1D4ED8?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SECURE%20CODE-1E3A8A?style=for-the-badge&logo=shield&logoColor=white"/>
-
-</div>
-
-## GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yousif-IQ&show_icons=true&hide_border=true&title_color=60A5FA&icon_color=2563EB&text_color=CBD5E1&bg_color=050816"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=yousif-IQ&theme=dark&hide_border=true&background=050816&ring=60A5FA&fire=2563EB&currStreakLabel=60A5FA"/>
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=60A5FA)
+![Bash](https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnu-bash&logoColor=60A5FA)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=60A5FA)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=60A5FA)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=60A5FA)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visual-studio-code&logoColor=60A5FA)
 
 </div>
 
 <div align="center">
 
-### Let's build something powerful.
-
-<a href="mailto:yousifwazni@gmail.com">Contact Me</a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:111827,100:050816&height=120&section=footer"/>
+### Code with purpose. Build with security.
 
 </div>
